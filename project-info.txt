@@ -1,5 +1,0 @@
-database username ----admin
-password ----Admin@123
-
-
-AWS Security tokem --$ubh2753477@thhi 
